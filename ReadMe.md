@@ -1,5 +1,30 @@
 # 💫 About Me:
-🛠️ Atualmente estou trabalhando em<br><br>Fortalecer minha base em programação (lógica, Java e JavaScript)<br>Projetos próprios pra evoluir na prática<br>Uma ideia de plataforma de streaming voltada pra fãs de anime<br><br>🤝 Procuro colaborar em<br><br>Projetos iniciais que desafiem minha lógica<br>Open source pra aprender fazendo<br>Qualquer coisa que envolva backend e resolução de problemas<br><br>🧠 Preciso de ajuda com<br><br>Boas práticas e código limpo<br>Desenvolvimento backend (APIs, banco de dados, arquitetura)<br>Evoluir minha eficiência como desenvolvedor<br><br>🌱 Atualmente estou aprendendo<br><br>Java e Programação Orientada a Objetos, estrutura de dados, apirest e CRUD<br>JavaScript pra interatividade web<br>Git e GitHub pra versionamento profissional<br><br>⚡ Curiosidade<br><br>Encaro programação como treino: consistência sempre vence talento.
+🛠️ Atualmente
+
+* Desenvolvendo minha base em programação com foco em Java e lógica
+* Criando projetos práticos para consolidar conhecimento
+* Explorando desenvolvimento web com JavaScript
+
+🤝 Aberto a
+
+* Colaborar em projetos que envolvam backend ou lógica
+* Contribuir com open source e aprender em equipe
+
+🌱 Estudando
+
+* Java e Programação Orientada a Objetos
+* JavaScript e fundamentos do desenvolvimento web
+* Git e GitHub para versionamento e boas práticas
+
+💬 Sobre mim
+
+* Em transição para me tornar desenvolvedor
+* Focado em consistência, disciplina e evolução contínua
+
+⚡ Diferencial
+
+* Aprendizado baseado em prática e construção de projetos reais
+
 
 
 ## 🌐 Socials:
