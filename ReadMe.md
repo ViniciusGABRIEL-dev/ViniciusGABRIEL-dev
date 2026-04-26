@@ -12,7 +12,7 @@
 
 🌱 Estudando
 
-* Java e Programação Orientada a Objetos
+* Java e Programação Orientada a Objetos, Estrutura de Dados, Spring Boot e RESTful APIs 
 * JavaScript e fundamentos do desenvolvimento web
 * Git e GitHub para versionamento e boas práticas
 
